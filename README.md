@@ -66,14 +66,42 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xxxx&show_icons=true&locale=en" alt="xxxx" /></p>
 
+width="600" height="200" 
+
+<p><img align="left" width="300" height="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=xxxx&show_icons=true&locale=en&layout=compact" alt="xxxx" /></p>
+
+<p>&nbsp;<img align="center" width="300" height="400" src="https://github-readme-stats.vercel.app/api?username=xxxx&show_icons=true&locale=en" alt="xxxx" /></p>
+
+
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xxxx&" alt="xxxx" /></p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xcevor-notes&show_icons=true&locale=en&layout=compact&show_icons=true&theme=radical&langs_count=8" alt="xcevor-notes" /></p>
+<p><img align="left" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=xcevor-notes&show_icons=true&locale=en&layout=compact&show_icons=true&theme=radical&langs_count=8" alt="xcevor-notes" /></p>
+<p>&nbsp;<img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=xcevor-notes&show_icons=true&locale=en&show_icons=true&theme=radical" alt="xcevor-notes" /></p>
+<p><img align="center" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=xcevor-notes&theme=radical" alt="xcevor-notes" /></p>
+</br></br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xcevor-notes&show_icons=true&locale=en&show_icons=true&theme=radical" alt="xcevor-notes" /></p>
+<p><img align="left" height="200" src="https://github-readme-stats.vercel.app/api?username=xcevor-notes&show_icons=true&locale=en&show_icons=true&theme=radical" alt="xcevor-notes" /></p>
+<p>&nbsp;<img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=xcevor-notes&show_icons=true&locale=en&layout=compact&show_icons=true&theme=radical&langs_count=8" alt="xcevor-notes" /></p>
+<p><img align="center" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=xcevor-notes&theme=radical" alt="xcevor-notes" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xcevor-notes&theme=radical" alt="xcevor-notes" /></p>
+width="300" height="220" 
+width="600" height="200" 
+width="100%"
+
+
+<table style="border: none;">
+  <tr>
+    <td width="350">
+      <img align="left" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=xcevor-notes&show_icons=true&locale=en&layout=compact&show_icons=true&theme=radical&langs_count=8" alt="xcevor-notes" />
+    </td>
+    <td width="500">
+      <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=xcevor-notes&show_icons=true&locale=en&show_icons=true&theme=radical" alt="xcevor-notes" />
+    </td>
+  </tr>
+</table>
+
 
 
 
